@@ -1,12 +1,12 @@
-Week {05}: {Project Title}
+Week {04}: {JavaScript fundamentals}
 
 ## Author
-- **Name:** Your Full Name
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
-- **Date:** Month Day, Year
+- **Name:** Mark muraya 
+- **GitHub:** [markchege10-ux](https://github.com/markchege10-ux)
+- **Date:** March Monday, 2026
 
 ## Project Description
-Brief description of what you built and why.
+practiced JavaScript and built an interactive calculator 
 
 ## Technologies Used
 - HTML5
@@ -26,7 +26,7 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+I learnt how to use JavaScript in your webpage
 
 ## Challenges Faced
 What problems did you encounter and how did you solve them?
